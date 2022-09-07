@@ -8,4 +8,4 @@ Moonquakes catalogue can be found at https://zenodo.org/record/3560482#.YxhpFtJB
 Marsquakes catalogue can be found at http://ds.iris.edu/ds/nodes/dmc/tools/mars-events/
 
 ---
-Results and paper can be found as conferene proceeding: *waiting to be published*
+Results and paper can be found as conference proceeding: *waiting to be published*
